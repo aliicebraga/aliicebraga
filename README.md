@@ -157,7 +157,7 @@
   />
   <img
     height="200em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliicebraga&show_icons=true&title_color=7A6959&text_color=C76100&icon_color=7A6959&bg_color=292636&cache_seconds=2300"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliicebraga&hide=html&show_icons=true&title_color=7A6959&text_color=C76100&icon_color=7A6959&bg_color=292636&cache_seconds=2300"
   />
 </div>
 
