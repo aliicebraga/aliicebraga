@@ -34,6 +34,10 @@
     🦄 Open to work.
   </p>
   
+  <div align="left">
+    
+  ![](https://komarev.com/ghpvc/?username=aliicebraga&color=orange&style=flat-square)
+  </div>
 
   <br />
 
