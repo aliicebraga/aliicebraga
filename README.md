@@ -30,9 +30,6 @@
     :monocle_face:&nbsp; Estou estudando Java e ReactJS.
   </p>
   
-  <p align="left">
-    🦄 Open to work.
-  </p>
   
   <div align="left">
     
